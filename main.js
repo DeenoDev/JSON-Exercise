@@ -55,4 +55,7 @@ async function populate() {
       section.appendChild(myArticle);
     }
   }
+
+  populate();
+
   
